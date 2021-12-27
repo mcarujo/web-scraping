@@ -1,7 +1,7 @@
 ### This repository contains web scraping scripts in python. 
-The results for those scripts are publish on Kaggle plataform. My goal is create dataset to be shared with the data science community.
+The results for those scripts are published on Kaggle platform. My goal is create dataset to be shared with the data science community.
 
-What I have did so far?
+What have I done so far?
 - Imovirtual
 - Letras
 - OneFootball
